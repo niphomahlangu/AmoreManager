@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988042928003",
+    "project_id": "amore-manager",
+    "storage_bucket": "amore-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988042928003:android:a05f7b734cf7b3bedca0b6",
+        "android_client_info": {
+          "package_name": "com.example.amoremanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988042928003-e4cm0102kkrob19cq5n27p8ordkuq6lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD61lUZGdQzdOnltlEnCfXnVKBVhZRF144"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988042928003-e4cm0102kkrob19cq5n27p8ordkuq6lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
